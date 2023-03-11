@@ -12,3 +12,5 @@ if otlom % goriz == 0 or otlom % vert == 0:
     print("yes")
 else:
     print("no")
+
+    
